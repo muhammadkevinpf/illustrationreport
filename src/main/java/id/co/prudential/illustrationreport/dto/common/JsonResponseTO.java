@@ -1,4 +1,4 @@
-package id.co.prudential.referral.dto.common;
+package id.co.prudential.illustrationreport.dto.common;
 
 public class JsonResponseTO {
 

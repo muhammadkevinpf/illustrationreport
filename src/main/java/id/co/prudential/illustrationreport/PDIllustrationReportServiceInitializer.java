@@ -1,13 +1,13 @@
-package id.co.prudential.referral;
+package id.co.prudential.illustrationreport;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.context.web.SpringBootServletInitializer;
 
-public class PDReferralServiceInitializer extends SpringBootServletInitializer {
+public class PDIllustrationReportServiceInitializer extends SpringBootServletInitializer {
 
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		return application.sources(PDReferralService.class);
+		return application.sources(PDIllustrationReportService.class);
 	}
 
 }

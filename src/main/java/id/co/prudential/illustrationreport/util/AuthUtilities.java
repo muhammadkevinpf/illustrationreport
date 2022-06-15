@@ -1,9 +1,9 @@
-package id.co.prudential.referral.util;
+package id.co.prudential.illustrationreport.util;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import id.co.prudential.referral.dto.common.RestResponse;
+import id.co.prudential.illustrationreport.dto.common.RestResponse;
 
 public class AuthUtilities {
 //	Delete agentCode pram after testing

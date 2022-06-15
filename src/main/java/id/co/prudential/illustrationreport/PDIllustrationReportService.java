@@ -1,4 +1,4 @@
-package id.co.prudential.referral;
+package id.co.prudential.illustrationreport;
 
 import javax.sql.DataSource;
 
@@ -20,10 +20,10 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @ComponentScan()
 @EnableMBeanExport(defaultDomain = "pd-referral")
 //@EnableWebMvc
-public class PDReferralService {
+public class PDIllustrationReportService {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PDReferralService.class, args);
+		SpringApplication.run(PDIllustrationReportService.class, args);
 	}
 
 	@Bean

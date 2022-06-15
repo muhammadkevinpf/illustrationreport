@@ -1,4 +1,4 @@
-package id.co.prudential.referral.util;
+package id.co.prudential.illustrationreport.util;
 
 public enum RoleUtil {
 	PH("OW"), LA("LA"), PAYOR("PY"), TOPUP("PT"), BENEF("BN");

@@ -1,4 +1,4 @@
-package id.co.prudential.referral.util;
+package id.co.prudential.illustrationreport.util;
 
 public class CommonUtil {
 

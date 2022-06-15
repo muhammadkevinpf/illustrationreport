@@ -1,4 +1,4 @@
-package id.co.prudential.referral;
+package id.co.prudential.illustrationreport;
 
 import javax.sql.DataSource;
 

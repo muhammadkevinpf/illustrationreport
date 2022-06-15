@@ -1,4 +1,4 @@
-package id.co.prudential.referral.util;
+package id.co.prudential.illustrationreport.util;
 
 import java.security.KeyStore;
 import java.util.List;
@@ -27,7 +27,7 @@ import org.apache.http.protocol.HTTP;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import id.co.prudential.referral.dto.common.RestResponse;
+import id.co.prudential.illustrationreport.dto.common.RestResponse;
 
 @SuppressWarnings("deprecation")
 public class HttpRequestUtilities {
